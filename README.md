@@ -48,7 +48,5 @@ Em andamento...
 📌 Observações
 
 - Conteúdo baseado no curso de HTML5 e CSS3 do Gustavo Guanabara
-- 
 - Organização por aulas para facilitar acompanhamento e evolução
-- 
--Projeto desenvolvido em dispositivo móvel utilizando o editor Acode
+- Projeto desenvolvido em dispositivo móvel utilizando o editor Acode
