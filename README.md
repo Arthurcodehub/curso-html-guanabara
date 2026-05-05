@@ -2,36 +2,51 @@
 
 Estudos de HTML com Gustavo Guanabara 
 -
-📘 HTML5 Course
+📚 Curso de HTML5 e CSS3 - Gustavo Guanabara
 
-Repositório para documentar minha evolução no estudo de HTML5.
+Repositório dedicado ao estudo prático de HTML5 e CSS3, com exercícios organizados por aula.
 
-🚀 Sobre
+---
 
-Estou aprendendo HTML5 na prática através de aulas e projetos, registrando meu progresso neste repositório.
+📈 Sobre o projeto
 
-📂 Estrutura
+Este repositório documenta minha evolução no desenvolvimento web, aplicando conceitos fundamentais de HTML5 e CSS3 por meio de atividades práticas.
 
-- "aula-04/"
-- "aula-05/"
-- "aula-06/"
+---
 
-🧠 Aprendizados
+📂 Estrutura das aulas
 
-- Estrutura básica do HTML
-- Tags semânticas
-- Organização de páginas
-- Listas e navegação
+- Aula 04: Estrutura inicial do site
+- Aula 05: Tags básicas
+- Aula 06: Parágrafos, quebras e símbolos
+- Aula 07: Formatação de texto
+- Aula 08: Códigos de cores
+- Aula 09: Imagens em HTML5
+- Aula 10: Formatação de imagens com CSS3
 
-🛠️ Tecnologias
+---
+
+🛠️ Tecnologias utilizadas
 
 - HTML5
-- Git & GitHub
+- CSS3
 
-📱 Ambiente
+---
 
-- Acode (mobile)
+🎯 Objetivo
 
-📈 Status
+Desenvolver uma base sólida em desenvolvimento front-end, compreendendo a estrutura e estilização de páginas web.
 
-🚧 Em aprendizado contínuo
+---
+
+🚀 Status
+
+Em andamento...
+
+---
+
+📌 Observações
+
+- Conteúdo baseado no curso de HTML5 e CSS3 do Gustavo Guanabara
+- Organização por aulas para facilitar acompanhamento e evolução
+-Projeto desenvolvido em dispositivo móvel utilizando o editor Acode
