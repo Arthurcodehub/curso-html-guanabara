@@ -25,9 +25,30 @@ div#interface {
  }
  
  header#cabecalho {
-   
+   border-bottom: 1px #606060 solid;
+   height: 150px;
+   background-image: url("../_imagens/glass-logo-peq.jpg");
+   background-position: 0px 80px;
+   background-repeat: no-repeat;
  }
-
+ 
+ header#cabecalho h1 {
+   font-family: Arial, Sans-Serif;
+   font-size: 30pt;
+   color: #606060;
+   text-shadow: 1px 1px 1px rgba(0,0,0,.6);
+   padding: 0px;
+   margin-bottom: 0px;
+ }
+ 
+ header#cabecalho h2 {
+   font-family: Arial, Sans-Serif;
+   color: #888888;
+   font-size: 15pt;
+   padding: 0px;
+   margin-top: 0px;
+ }
+ 
 /* Formatação de imagens com legendas */
 
 figure.foto-legenda {
