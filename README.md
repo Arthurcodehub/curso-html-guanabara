@@ -8,6 +8,12 @@ Repositório dedicado ao estudo prático de HTML5 e CSS3, com exercícios organi
 
 ---
 
+🌐 GitHub Pages
+
+O site fica na pasta [curso](file:///workspace/curso) e é publicado automaticamente no GitHub Pages via GitHub Actions.
+
+---
+
 📈 Sobre o projeto
 
 Este repositório documenta minha evolução no desenvolvimento web, aplicando conceitos fundamentais de HTML5 e CSS3 por meio de atividades práticas.
