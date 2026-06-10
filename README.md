@@ -1,58 +1,83 @@
-# curso-html-guanabara
+# Curso HTML Guanabara
 
-Estudos de HTML com Gustavo Guanabara 
--
-📚 Curso de HTML5 e CSS3 - Gustavo Guanabara
+Repositório dedicado ao meu estudo prático de HTML5, CSS3 e JavaScript com base no curso do Gustavo Guanabara.
 
-Repositório dedicado ao estudo prático de HTML5 e CSS3, com exercícios organizados por aula.
+Aqui eu documento minha evolução aula por aula, organizando arquivos, testes e páginas do projeto conforme avanço nos estudos.
 
----
+## Sobre o projeto
 
-🌐 GitHub Pages
+Este repositório funciona como um diário prático de aprendizado em desenvolvimento web.
 
-O site fica na pasta [curso](file:///workspace/curso) e é publicado automaticamente no GitHub Pages via GitHub Actions.
+O foco é treinar:
 
----
+- estruturação com HTML5
+- estilização com CSS3
+- primeiros passos com JavaScript
+- organização de arquivos e pastas
+- versionamento com Git e GitHub
 
-📈 Sobre o projeto
+## Estrutura atual
 
-Este repositório documenta minha evolução no desenvolvimento web, aplicando conceitos fundamentais de HTML5 e CSS3 por meio de atividades práticas.
+O projeto principal fica dentro da pasta `curso/`, com a seguinte organização:
 
----
+```text
+curso/
+├── _css/
+├── _fonts/
+├── _imagens/
+├── _interface/
+├── _javascript/
+├── _media/
+├── _textos/
+├── testes/
+└── *.html
+```
 
-📂 Estrutura das aulas
+### Pastas principais
 
-- Aula 04: Estrutura inicial do site
-- Aula 05: Tags básicas
-- Aula 06: Parágrafos, quebras e símbolos
-- Aula 07: Formatação de texto
-- Aula 08: Códigos de cores
-- Aula 09: Imagens em HTML5
-- Aula 10: Formatação de imagens com CSS3
+- `_css/`: arquivos de estilo do projeto
+- `_imagens/`: imagens utilizadas nas páginas e testes
+- `_interface/`: imagens de apoio e referências visuais do curso
+- `testes/`: arquivos de prática com JavaScript e experimentos separados do projeto principal
 
----
+## Conteúdo estudado
 
-🛠️ Tecnologias utilizadas
+Até o momento, o repositório reúne práticas relacionadas a:
+
+- estrutura inicial de páginas HTML
+- textos, listas e links
+- imagens e formatação visual
+- semântica em HTML5
+- tabelas
+- organização do layout
+- interações básicas com JavaScript
+- funções em JavaScript
+
+## GitHub Pages
+
+O site é publicado automaticamente com GitHub Pages a partir da pasta `curso/`.
+
+Isso permite acompanhar o projeto também pelo navegador, mantendo a estrutura original do repositório.
+
+## Tecnologias utilizadas
 
 - HTML5
 - CSS3
+- JavaScript
+- Git
+- GitHub Pages
 
----
+## Objetivo
 
-🎯 Objetivo
+Meu objetivo com este repositório é construir uma base sólida em desenvolvimento front-end, praticando com constância e mantendo tudo organizado para acompanhar minha evolução.
 
-Desenvolver uma base sólida em desenvolvimento front-end, compreendendo a estrutura e estilização de páginas web.
+## Status
 
----
+Projeto em andamento, com novas aulas, testes e melhorias sendo adicionados continuamente.
 
-🚀 Status
+## Observações
 
-Em andamento...
-
----
-
-📌 Observações
-
-- Conteúdo baseado no curso de HTML5 e CSS3 do Gustavo Guanabara
-- Organização por aulas para facilitar acompanhamento e evolução
-- Projeto desenvolvido em dispositivo móvel utilizando o editor Acode
+- Conteúdo baseado no curso de HTML5, CSS3 e JavaScript do Gustavo Guanabara
+- Projeto desenvolvido e organizado com foco em estudo prático
+- Parte do desenvolvimento é feita pelo celular, utilizando o Acode
+- O repositório também serve como registro da minha evolução como estudante de programação web
