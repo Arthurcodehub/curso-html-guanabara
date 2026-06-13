@@ -81,3 +81,7 @@ Projeto em andamento, com novas aulas, testes e melhorias sendo adicionados cont
 - Projeto desenvolvido e organizado com foco em estudo prático
 - Parte do desenvolvimento é feita pelo celular, utilizando o Acode
 - O repositório também serve como registro da minha evolução como estudante de programação web
+
+## Acessar o Projeto
+
+(https://arthurcodehub.github.io/curso-html-guanabara/)
