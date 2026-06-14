@@ -85,3 +85,7 @@ Projeto em andamento, com novas aulas, testes e melhorias sendo adicionados cont
 ## Acessar o Projeto
 
 (https://arthurcodehub.github.io/curso-html-guanabara/)
+
+## Curso
+
+https://youtu.be/epDCjksKMok?is=UBhHV4NiH-MF1aiS
