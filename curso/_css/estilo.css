@@ -246,3 +246,8 @@ footer#rodape {
 footer#rodape p {
   text-align: center;
 }
+
+video#filme {
+  position: relative;
+  max-width: 100%;
+}
