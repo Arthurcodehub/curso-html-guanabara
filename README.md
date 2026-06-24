@@ -8,7 +8,7 @@ Projeto de estudo do curso de **HTML5 e CSS3** ([Curso em Vídeo](https://www.cu
 
 ## 🔗 Demo
 
-🔗 https://github.com/Arthurcodehub/curso-html-guanabara
+🔗 https://arthurcodehub.github.io/curso-html-guanabara/
 
 ## 🚀 Tecnologias
 
