@@ -1,0 +1,168 @@
+@charset "UTF-8";
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+img, video, iframe, audio {
+  max-width: 100%;
+}
+
+input, textarea, select {
+  max-width: 100%;
+}
+
+
+div#interface {
+  width: 100%;
+  max-width: 900px;
+}
+
+ul#album-fotos {                 
+  width: 100%;
+  max-width: 700px;
+}
+
+form {                          
+  width: 100%;
+  max-width: 500px;
+}
+
+section#conteudo {
+  width: 100%;
+  max-width: 100%;
+  text-align: center;
+}
+
+section#conteudo img {
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+iframe#frame-spec {
+  width: 100%;
+  max-width: 400px;
+  display: block;
+  margin: 15px auto 0;
+}
+
+@media (max-width: 900px) {
+
+  header#cabecalho {
+    height: auto;
+    background-image: none;
+    text-align: center;
+    padding: 15px 10px;
+  }
+
+  header#cabecalho img#icone {
+    position: static;
+    display: block;
+    width: auto;
+    max-width: 110px;
+    height: auto;
+    margin: 10px auto 0;
+  }
+
+  header#cabecalho h1 {
+    font-size: 24pt;
+  }
+
+  header#cabecalho h2 {
+    font-size: 12pt;
+  }
+
+  nav#menu ul {
+    position: static;
+    left: auto;
+    top: auto;
+    text-align: center;
+    padding: 0;
+    margin: 15px 0 0 0;
+  }
+
+
+  section#corpo {
+    width: 100%;
+    float: none;
+    border-right: none;
+    padding-right: 0;
+    border-bottom: 1px solid #606060;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+  }
+
+  aside#lateral {
+    width: 100%;
+    float: none;
+    margin-top: 0;
+  }
+
+  div#tv-radio {
+    width: 100%;
+    height: auto;
+    background-image: none;
+    padding: 20px 0;
+    text-align: center;
+  }
+
+  video#filme,
+  audio#musica {
+    position: static;
+    left: auto;
+    top: auto;
+    display: block;
+    width: 90%;
+    margin: 0 auto 20px;
+  }
+
+  video#filme {
+    max-width: 440px;
+  }
+
+  audio#musica {
+    max-width: 400px;
+  }
+
+  ul#album-fotos {
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+
+
+@media (max-width: 600px) {
+
+  header#cabecalho h1 {
+    font-size: 18pt;
+  }
+
+  header#cabecalho h2 {
+    font-size: 10pt;
+  }
+
+  nav#menu li {
+    display: block;
+    width: 100%;
+    margin: 4px 0;
+  }
+
+  p {
+    text-indent: 25px;
+  }
+
+  table#tabelaspec {
+    font-size: 0.8em;
+  }
+
+  table#tabelaspec td {
+    padding: 6px;
+  }
+
+  fieldset {
+    margin: 10px 0;
+  }
+}
